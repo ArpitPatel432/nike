@@ -1,0 +1,116 @@
+body{
+    background-color: white;
+}
+
+body, h1, h2, h3, h4, h5, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+header h2 {
+    margin-bottom: 0.5rem;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #333;
+    padding: 1rem 0;
+}
+
+nav li {
+    margin: 0 1rem;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    padding: 2rem;
+}
+
+section.imghead img {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+section h4 {
+    color: #333;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+section h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+section p {
+    color: #666;
+    margin-bottom: 1.5rem;
+}
+
+section a {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+section.imghead2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+
+section.imghead2 img {
+    width: 30%;
+}
+
+section.imghead3 {
+    margin-top: 2rem;
+    text-align: center;
+   
+}
+section.imghead4{
+    margin-top: 2rem;
+    text-align: center;
+}
+
+section.imghead3 p {
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+section.imghead3 h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+section.imghead3 a {
+    margin-bottom: 1rem;
+}
+
+main img {
+    width: 300px;
+    margin-bottom: 1rem;
+}
+
+
